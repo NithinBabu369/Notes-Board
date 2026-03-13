@@ -49,6 +49,7 @@ cd Notes-Board
 2. Setup the env file
 
 Navigate to the Backend folder: cd Backend
+
 Create a .env file and add the following variables with your values:
 
 MONGO_URI=your_mongodb_connection_string
@@ -68,6 +69,8 @@ Open a new terminal and navigate to the root of the application
 Install dependencies: npm run build
 
 4. Start the development server: npm run start
+
+_________________________________________________________________________
 
 👤 Author
 Nithin Babu B R
