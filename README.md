@@ -100,4 +100,4 @@ npm run build
 Feel free to reach out if you have any questions or want to collaborate!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-babu369)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinbabuofficialid@gmail.com)
+[<img src="https://img.shields.io/badge/Email-nithinbabuofficialid%40gmail.com-D14836?style=for-the-badge&logo=gmail">](mailto:nithinbabuofficialid@gmail.com)
