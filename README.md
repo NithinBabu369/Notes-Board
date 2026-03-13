@@ -51,7 +51,7 @@ touch .env
 ```
 
 Add the following variables to your .env file:
-
+```
 * MONGO_URI=your_mongodb_connection_string
 
 * PORT=3000
@@ -61,15 +61,16 @@ Add the following variables to your .env file:
 * UPSTASH_REDIS_REST_TOKEN=get from redis site
 
 * NODE_ENV=production
+```
 
-3. Install Dependencies & Build 
+### 3. Install Dependencies & Build 
    
 From the root directory, run the following to install all packages and build the frontend:
 ```
 npm run build
 ```
 
-4. Start the Application
+### 4. Start the Application
 
    Once the build is complete, start the production server:
    
