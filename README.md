@@ -1,12 +1,11 @@
-app is live in ->  https://notes-board-app-mern.onrender.com
-
-
 📝 Notes-Board
+
 A full-stack, responsive note-taking application built with the MERN stack. This project allows users to create, manage, and organize digital sticky notes with a focus on speed and a clean user interface.
 
-🚀 Live Demo: View the App
+🚀 Live Demo: https://notes-board-app-mern.onrender.com
 
 🌟 Features
+
 Full CRUD Functionality: Create, Read, Update, and Delete notes in real-time.
 
 Persistent Storage: Data is stored securely in a MongoDB Atlas database.
@@ -18,6 +17,7 @@ Fast Performance: Built with Vite for near-instant Hot Module Replacement (HMR).
 RESTful API: Decoupled Backend and Frontend architecture.
 
 🛠️ Tech Stack
+
 Frontend:
 
 React.js - UI Library
@@ -40,27 +40,29 @@ Mongoose - ODM for MongoDB
 To run this project locally, follow these steps:
 
 1. Clone the repository
+
 Bash
 git clone https://github.com/NithinBabu369/Notes-Board.git
 cd Notes-Board
-2. Setup the Backend
+
+3. Setup the env file
+
 Navigate to the Backend folder: cd Backend
+Create a .env file and add the following variables with your values:
 
-Install dependencies: npm install
-
-Create a .env file and add your MongoDB connection string:
-
-Code snippet
 MONGO_URI=your_mongodb_connection_string
-PORT=5000
-Start the server: npm start (or npm run dev for nodemon)
+PORT=3000
+UPSTASH_REDIS_REST_URL=get from redis site
+UPSTASH_REDIS_REST_TOKEN=get from redis site
+NODE_ENV=production
 
-3. Setup the Frontend
-Open a new terminal and navigate to the Frontend folder: cd Frontend
+3. Install dependencies and build the application
+   
+Open a new terminal and navigate to the root of the application
 
-Install dependencies: npm install
+Install dependencies: npm run build
 
-Start the development server: npm run dev
+4. Start the development server: npm run start
 
 👤 Author
 Nithin Babu B R
@@ -68,6 +70,3 @@ Nithin Babu B R
 GitHub: @NithinBabu369
 
 Live Project: Notes-Board
-
-
-Would you like me to help you create that .env.example file?
