@@ -37,6 +37,7 @@ MongoDB - Database (NoSQL)
 Mongoose - ODM for MongoDB
 
 ⚙️ Installation & Setup
+
 To run this project locally, follow these steps:
 
 1. Clone the repository
@@ -45,15 +46,19 @@ Bash
 git clone https://github.com/NithinBabu369/Notes-Board.git
 cd Notes-Board
 
-3. Setup the env file
+2. Setup the env file
 
 Navigate to the Backend folder: cd Backend
 Create a .env file and add the following variables with your values:
 
 MONGO_URI=your_mongodb_connection_string
+
 PORT=3000
+
 UPSTASH_REDIS_REST_URL=get from redis site
+
 UPSTASH_REDIS_REST_TOKEN=get from redis site
+
 NODE_ENV=production
 
 3. Install dependencies and build the application
