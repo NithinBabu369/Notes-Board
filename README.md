@@ -46,14 +46,14 @@ cd Notes-Board
 ### 2. Environment Configuration
 Navigate to the Backend folder and create a .env file:
 
-```
+```bash
 cd Backend
 touch .env
 ```
 
 Add the following variables to your .env file:
 
-```
+```bash
 MONGO_URI=your_mongodb_connection_string
 
 PORT=3000
@@ -69,7 +69,7 @@ NODE_ENV=production
    
 From the root directory, run the following to install all packages and build the frontend:
 
-```
+```bash
 npm run build
 ```
 
@@ -77,7 +77,7 @@ npm run build
 
    Once the build is complete, start the production server:
    
-   ```
+   ```bash
    npm run start
    ```
 
