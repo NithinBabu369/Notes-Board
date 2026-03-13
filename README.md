@@ -54,14 +54,15 @@ touch .env
 Add the following variables to your .env file:
 
 ```bash
-MONGO_URI=your_mongodb_connection_string
-
+# Database Configuration
+MONGO_URI=your_mongodb_connection_string_here
 PORT=3000
 
-UPSTASH_REDIS_REST_URL=get from redis site
+# Redis Configuration (Upstash)
+UPSTASH_REDIS_REST_URL=your_upstash_url_here
+UPSTASH_REDIS_REST_TOKEN=your_upstash_token_here
 
-UPSTASH_REDIS_REST_TOKEN=get from redis site
-
+# Environment
 NODE_ENV=production
 ```
 
