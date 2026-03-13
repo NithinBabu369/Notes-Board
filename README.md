@@ -82,18 +82,6 @@ npm run build
    npm run start
    ```
 
-_________________________________________________________________________
-
-👤 Author
-Nithin Babu B R
-
-GitHub: @NithinBabu369
-
-Live Project: Notes-Board
-
-
-
-
 ## 📸 Sneak Peek
 
 | Desktop View (HomePage) | Mobile View (HomePage) |
@@ -107,4 +95,14 @@ Live Project: Notes-Board
 | :---: | :---: |
  | <img src="https://github.com/user-attachments/assets/ccb0cc55-36e2-4dc3-ac20-643c9823e463" width="500" /> |<img src="https://github.com/user-attachments/assets/a645d241-e99c-4140-bd15-a30fa2f66444" width="220" /> | 
 
+---
+
+## 📬 Contact
+
+Feel free to reach out if you have any questions or want to collaborate!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-babu369)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithinbabuofficialid@gmail.com)
+
+---
 
