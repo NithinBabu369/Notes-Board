@@ -2,7 +2,7 @@
 
 A full-stack, responsive note-taking application built with the MERN stack. This project allows users to create, manage, and organize digital sticky notes with a focus on speed and a clean user interface.
 
-🚀 Live Demo: https://notes-board-app-mern.onrender.com
+🚀 Live Demo: [Visit Now](https://notes-board-app-mern.onrender.com/)
 
 ## 🌟 Features
 
