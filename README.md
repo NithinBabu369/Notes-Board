@@ -16,7 +16,7 @@ A full-stack, responsive note-taking application built with the MERN stack. This
 
 * RESTful API: Decoupled Backend and Frontend architecture.
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
 ### Frontend:
 
