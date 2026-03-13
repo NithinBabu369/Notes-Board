@@ -6,15 +6,15 @@ A full-stack, responsive note-taking application built with the MERN stack. This
 
 ## 🌟 Features
 
-Full CRUD Functionality: Create, Read, Update, and Delete notes in real-time.
+* Full CRUD Functionality: Create, Read, Update, and Delete notes in real-time.
 
-Persistent Storage: Data is stored securely in a MongoDB Atlas database.
+* Persistent Storage: Data is stored securely in a MongoDB Atlas database.
 
-Responsive Design: Fully optimized for Mobile, Tablet, and Desktop using Tailwind CSS.
+* Responsive Design: Fully optimized for Mobile, Tablet, and Desktop using Tailwind CSS.
 
-Fast Performance: Built with Vite for near-instant Hot Module Replacement (HMR).
+* Fast Performance: Built with Vite for near-instant Hot Module Replacement (HMR).
 
-RESTful API: Decoupled Backend and Frontend architecture.
+* RESTful API: Decoupled Backend and Frontend architecture.
 
 ## 🛠️ Tech Stack
 
