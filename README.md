@@ -98,10 +98,13 @@ Live Project: Notes-Board
 
 | Desktop View (HomePage) | Desktop View (CreateNotePage) |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/2e921ec8-9d7c-488d-82ef-74cafff11d8b" width="500" /> | <img src="https://github.com/user-attachments/assets/ccb0cc55-36e2-4dc3-ac20-643c9823e463" width="500" /> |
+| <img src="https://github.com/user-attachments/assets/2e921ec8-9d7c-488d-82ef-74cafff11d8b" width="500" /> | <img src="https://github.com/user-attachments/assets/bae1b779-1b23-4a56-8291-33b70f0afef3" width="220" /> |
+
+
+
 
 | Mobile View (HomePage) | Mobile View (CreateNotePage) |
 | :---: | :---: |
-| <img src="https://github.com/user-attachments/assets/bae1b779-1b23-4a56-8291-33b70f0afef3" width="220" /> | <img src="https://github.com/user-attachments/assets/a645d241-e99c-4140-bd15-a30fa2f66444" width="220" /> | 
+ | <img src="https://github.com/user-attachments/assets/ccb0cc55-36e2-4dc3-ac20-643c9823e463" width="500" /> |<img src="https://github.com/user-attachments/assets/a645d241-e99c-4140-bd15-a30fa2f66444" width="220" /> | 
 
 
