@@ -37,6 +37,7 @@ A full-stack, responsive note-taking application built with the MERN stack. This
 Follow these steps to get a local copy up and running:
 
 ### 1. Clone the Repository
+
 ```bash
 git clone [https://github.com/NithinBabu369/Notes-Board.git](https://github.com/NithinBabu369/Notes-Board.git)
 cd Notes-Board
@@ -51,21 +52,23 @@ touch .env
 ```
 
 Add the following variables to your .env file:
+
 ```
-* MONGO_URI=your_mongodb_connection_string
+MONGO_URI=your_mongodb_connection_string
 
-* PORT=3000
+PORT=3000
 
-* UPSTASH_REDIS_REST_URL=get from redis site
+UPSTASH_REDIS_REST_URL=get from redis site
 
-* UPSTASH_REDIS_REST_TOKEN=get from redis site
+UPSTASH_REDIS_REST_TOKEN=get from redis site
 
-* NODE_ENV=production
+NODE_ENV=production
 ```
 
 ### 3. Install Dependencies & Build 
    
 From the root directory, run the following to install all packages and build the frontend:
+
 ```
 npm run build
 ```
