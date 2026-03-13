@@ -74,3 +74,13 @@ Nithin Babu B R
 GitHub: @NithinBabu369
 
 Live Project: Notes-Board
+
+
+## ⚙️ Installation & Setup
+
+Follow these steps to get a local copy up and running:
+
+### 1. Clone the Repository
+```bash
+git clone [https://github.com/NithinBabu369/Notes-Board.git](https://github.com/NithinBabu369/Notes-Board.git)
+cd Notes-Board
